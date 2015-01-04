@@ -14,7 +14,7 @@ twitter-text: Cheese%20fondue%20with%20fontina%20and%20gruyere%2C%20a%20Christma
 buddy: 0
 ---
 <!-- more -->
-<center><iframe width="80%" height="600" src="//www.youtube.com/embed/OEFya3sVGHA" frameborder="0" allowfullscreen></iframe></center>
+<center><iframe width="98%" height="auto" src="//www.youtube.com/embed/OEFya3sVGHA" frameborder="0" allowfullscreen></iframe></center>
 <a href="https://plus.google.com/107103100819027957630?rel=author" style="display:none">{{page.author }}</a>
 
 <h4>Story</b> </h4>
