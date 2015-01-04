@@ -72,11 +72,11 @@ a:hover {
 }
 
 core-header-panel {
-  background-color: #00bcd4;
+  background-color: #795548;
 }
 
 html /deep/ core-toolbar {
-  background-color: #00acc1;
+  background-color: #5D4037;
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
