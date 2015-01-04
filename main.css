@@ -144,6 +144,14 @@ paper-item a {
     height: 100%;
 }
 
+img {
+	position: absolute;
+    top: 0; 
+    left: 1%;
+    width: 98%;
+    height: 100%;
+}
+
 @media screen and (max-width: 768px){
 	.content {
 		margin: 1%;
