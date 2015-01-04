@@ -85,7 +85,7 @@ html /deep/ core-toolbar {
   -webkit-align-items: center;
       -ms-flex-align: center;
           align-items: center;
-  height: 10%;
+  height: 128px;
   z-index: 1;
   box-shadow: 0 8px 17px 0 rgba(0, 0, 0, 0.2);
 }
@@ -140,5 +140,7 @@ paper-item a {
 	section h2 a {
 		font-size: 1.25rem;
 	}
-}
+	html /deep/ core-toolbar {
+		height: 5%
+	}
 }
