@@ -139,7 +139,7 @@ paper-item a {
 .fluidMedia iframe {
     position: absolute;
     top: 0; 
-    left: 0;
+    left: 1%;
     width: 98%;
     height: 100%;
 }
