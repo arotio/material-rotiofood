@@ -150,6 +150,9 @@ img {
     width: 98%;
     height: 100%;
 }
+article div center img{
+    width: 50%;
+}
 
 @media screen and (max-width: 768px){
 	.content {
