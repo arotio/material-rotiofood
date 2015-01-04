@@ -150,7 +150,12 @@ img {
     width: 98%;
     height: 100%;
 }
+
 article div center img{
+    width: 50%;
+}
+
+article div img{
     width: 50%;
 }
 
@@ -167,5 +172,12 @@ article div center img{
 	}
 	html /deep/ core-toolbar {
 		height: 10%
+	}
+	article div center img{
+    width: 80%;
+	}
+
+	article div img{
+		width: 80%;
 	}
 }
