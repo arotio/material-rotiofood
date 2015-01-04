@@ -103,11 +103,4 @@ This year, we kept the tradition alive in our newlywed household. We went out an
 	</div>
 
 </div>
-</div>
-<script>
-	$( "#accordion" ).accordion({
-	collapsible: true,
-	active: false,
-	heightStyle: "content"});
-</script>
 
