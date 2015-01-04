@@ -14,7 +14,10 @@ twitter-text: Pig%27s%20head%20to%20head%20cheese%20in%2024%20hours
 buddy: 0
 ---
 <!-- more -->
-<center><iframe width="80%" height="600" src="//www.youtube.com/embed/FrxGD3B5K7g" frameborder="0" allowfullscreen></iframe></center>
+<center>
+<div class="fluidMedia">
+    <iframe src="//www.youtube.com/embed/FrxGD3B5K7g" frameborder="0" allowfullscreen> </iframe>
+</div>
 <a href="https://plus.google.com/107103100819027957630?rel=author" style="display:none">{{page.author }}</a>
 
 <h4>Story</b> </h4>
