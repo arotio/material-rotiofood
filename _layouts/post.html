@@ -10,6 +10,21 @@ layout: default
   <footer>
     <p><small>{{ site.name }}, {{ page.date | date_to_string }}</small></p>
   </footer>
+  {% if page.comments %}
+	<div id="disqus_thread"></div>
+	<script type="text/javascript">
+		var disqus_shortname = 'rotiofood';
+		  
+			
+		var disqus_script = 'embed.js';
+		  
+		(function () {
+		  var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+		  dsq.src = 'http://' + disqus_shortname + '.disqus.com/' + disqus_script;
+		  (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+		}());
+	</script>
+  {% endif %}
   <aside>
     <ul>
       {% for post in site.related_posts %}
