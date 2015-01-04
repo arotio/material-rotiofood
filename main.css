@@ -120,3 +120,11 @@ core-menu paper-item, core-menu paper-item a {
 .download-button {
   margin-left: 16px;
 }
+
+h2 a {
+	font-size: 1.5rem;
+}
+
+paper-item a {
+	font-size: .75rem;
+}
