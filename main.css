@@ -141,6 +141,6 @@ paper-item a {
 		font-size: 1.25rem;
 	}
 	html /deep/ core-toolbar {
-		height: 5%
+		height: 10%
 	}
 }
