@@ -27,23 +27,23 @@ h1 {
 }
 
 h2 {
-  font-size: 4rem;
-}
-
-h3 {
-  font-size: 3.5rem;
-}
-
-h4 {
-  font-size: 3rem;
-}
-
-h5 {
   font-size: 2.5rem;
 }
 
-h6 {
+h3 {
+  font-size: 2.25rem;
+}
+
+h4 {
   font-size: 2rem;
+}
+
+h5 {
+  font-size: 1.75rem;
+}
+
+h6 {
+  font-size: 1.5rem;
 }
 
 p, a {
@@ -65,8 +65,8 @@ a:hover {
 }
 
 .content {
-  margin: 32px;
-  padding: 32px 64px 32px 64px;
+  margin: 2%;
+  padding: 2%;
   background-color: #f9f9f9;
   box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.26);
 }
@@ -119,4 +119,50 @@ core-menu paper-item, core-menu paper-item a {
 
 .download-button {
   margin-left: 16px;
+}
+
+h2 a {
+	font-size: 1.5rem;
+}
+
+paper-item a {
+	font-size: 1rem;
+}
+.fluidMedia {
+    position: relative;
+    padding-bottom: 56.25%; /* proportion value to aspect ratio 16:9 (9 / 16 = 0.5625 or 56.25%) */
+    padding-top: 30px;
+    height: 0;
+    overflow: hidden;
+}
+
+.fluidMedia iframe {
+    position: absolute;
+    top: 0; 
+    left: 1%;
+    width: 98%;
+    height: 100%;
+}
+
+img {
+    top: 0; 
+    left: 1%;
+    width: 98%;
+    height: 100%;
+}
+
+@media screen and (max-width: 768px){
+	.content {
+		margin: 1%;
+		padding: 1%;
+	}
+	section h2 {
+		font-size: 1.5rem;
+	}
+	section h2 a {
+		font-size: 1.25rem;
+	}
+	html /deep/ core-toolbar {
+		height: 10%
+	}
 }
