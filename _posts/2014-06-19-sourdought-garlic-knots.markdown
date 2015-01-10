@@ -27,8 +27,9 @@ buddy: 1
   <h4 itemprop="name">Sourdough Garlic Knots</h4>
   
   <br />
-    June 19, 2014</time>
-  <img itemprop="image" width="200px" align="right" src="http://rotio.net/rotiofood/2014-06-19/final_top_far_wb.jpg" />
+    June 19, 2014
+<center>
+  <img itemprop="image" width="200px"  src="http://rotio.net/rotiofood/2014-06-19/final_top_far_wb.jpg" />
   
   <br /><span itemprop="description">Garlic knots made from Budweiser sourdough starter</span><br />
 

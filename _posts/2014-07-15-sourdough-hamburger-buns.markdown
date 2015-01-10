@@ -30,8 +30,9 @@ buddy: 1
   <h4 itemprop="name">Sourdough Hamburger Buns</h4>
   
   <br />
-    July 15, 2014</time>
-  <img itemprop="image" width="200px" align="right" src="http://rotio.net/rotiofood/2014-07-15/buns_done.jpg" />
+    July 15, 2014
+<center>
+  <img itemprop="image" width="200px"  src="http://rotio.net/rotiofood/2014-07-15/buns_done.jpg" />
   
   <br /><span itemprop="description">{{page.description }}</span><br />
 

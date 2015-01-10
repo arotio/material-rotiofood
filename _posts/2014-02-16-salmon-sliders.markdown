@@ -29,8 +29,9 @@ buddy: 0
   <h4 itemprop="name">Salmon Sliders</h4>
   
   <br />
-    February 16, 2014</time>
-  <img itemprop="image" width="200px" align="right" src="http://rotio.net/rotiofood/2014-02-16/salmon_sliders_plated_2.jpg" />
+    February 16, 2014
+<center>
+  <img itemprop="image" width="200px"  src="http://rotio.net/rotiofood/2014-02-16/salmon_sliders_plated_2.jpg" />
   
   <br /><span itemprop="description">Salmon sliders with cucumber dill sauce and tomato. </span><br />
 
@@ -109,8 +110,5 @@ buddy: 0
 	  <br /> 
 	</div>
 	</div>
-
-</div>
-
 
  

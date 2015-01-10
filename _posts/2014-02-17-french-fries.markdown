@@ -29,8 +29,9 @@ buddy: 0
   <h4 itemprop="name">French Fries</h4>
   
   <br />
-    February 17, 2014</time>
-  <img itemprop="image" width="200px" align="right" src="http://rotio.net/rotiofood/2014-02-17/fries.jpg" />
+    February 17, 2014
+<center>
+  <img itemprop="image" width="200px"  src="http://rotio.net/rotiofood/2014-02-17/fries.jpg" />
   
   <br /><span itemprop="description">Crispy, tender bistro fries.</span><br />
 
@@ -69,6 +70,4 @@ buddy: 0
 
 	</div>
 	</div>
-
-</div>
 

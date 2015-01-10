@@ -26,8 +26,9 @@ buddy: 0
   <h4 itemprop="name">Fried Cornish Game Hen over Brussels' Salad</h4>
   
   <br />
-    June 8, 2014</time>
-  <img itemprop="image" width="267px" align="right" src="http://rotio.net/rotiofood/2014-06-08/search.jpg" />
+    June 8, 2014
+<center>
+  <img itemprop="image" width="267px"  src="http://rotio.net/rotiofood/2014-06-08/search.jpg" />
   
   <br /><span itemprop="description">Buttermilk fried cornish game hen stung with Sriracha honey in "nest" of brussels sprouts and currants</span><br />
 
@@ -154,7 +155,5 @@ buddy: 0
 	<img src="http://rotio.net/rotiofood/2014-06-08/done.jpg"/>
 	<img src="http://rotio.net/rotiofood/2014-06-08/two_plated.jpg"/>
 	</div>
-
-</div>
 
 

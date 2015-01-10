@@ -28,8 +28,9 @@ buddy: 1
   <h4 itemprop="name">Sourdough Waffles with Berries and Cream</h4>
   
   <br />
-    April 6, 2014</time>
-  <img itemprop="image" width="200px" align="right" src="http://rotio.net/rotiofood/2014-04-06/waffle.jpg" />
+    April 6, 2014
+<center>
+  <img itemprop="image" width="200px"  src="http://rotio.net/rotiofood/2014-04-06/waffle.jpg" />
   
   <br /><span itemprop="description">Sourdough waffles with whipped cream and strawberries</span><br />
 
@@ -113,7 +114,3 @@ buddy: 1
 	
 
 	</div>
-
-</div>
-
-

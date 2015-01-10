@@ -48,8 +48,9 @@ buddy: 0
   <h4 itemprop="name">Beef Sous Vide</h4>
   
   <br />
-    February 24, 2014</time>
-  <img itemprop="image" width="200px" align="right" src="http://rotio.net/rotiofood/2014-02-24/beef_sous_vide.jpg" />
+    February 24, 2014
+<center>
+  <img itemprop="image" width="200px"  src="http://rotio.net/rotiofood/2014-02-24/beef_sous_vide.jpg" />
   
   <br /><span itemprop="description">"Sous vide" beef tenderloin without the thousand dollar equipment.</span><br />
 
@@ -89,8 +90,5 @@ buddy: 0
 	</div>
 	<img src="http://rotio.net/rotiofood/2014-02-24/beef_gif.gif"/>
 	</div>
-
-</div>
-
 
 

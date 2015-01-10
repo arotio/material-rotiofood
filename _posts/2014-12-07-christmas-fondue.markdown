@@ -47,8 +47,9 @@ This year, we kept the tradition alive in our newlywed household. We went out an
   <h4 itemprop="name">Christmas Fondue</h4>
   
   <br />
-    December 7, 2014</time>
-  <img itemprop="image" width="200px" align="right" src="http://rotio.net/rotiofood/2014-12-07/fondue-dip-tree-horizontal.jpg" />
+    December 7, 2014
+<center>
+  <img itemprop="image" width="200px"  src="http://rotio.net/rotiofood/2014-12-07/fondue-dip-tree-horizontal.jpg" />
   
   <br /><span itemprop="description">{{page.description }}</span><br />
 

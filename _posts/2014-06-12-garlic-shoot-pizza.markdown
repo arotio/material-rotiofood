@@ -27,10 +27,12 @@ buddy: 1
   <h4 itemprop="name">Garlic Shoot Pizza</h4>
   
   <br />
-    June 12, 2014</time>
-  <img itemprop="image" width="200px" align="right" src="http://rotio.net/rotiofood/2014-06-11/pie2.jpg" />
+    June 12, 2014
+<center>
+  <img itemprop="image" width="200px"  src="http://rotio.net/rotiofood/2014-06-11/pie2.jpg" />
   
-  <br /><span itemprop="description">Budweiser sourdough pizza with garlic shoots, bacon, and eggplant</span><br />
+  </center>
+<br /><span itemprop="description">Budweiser sourdough pizza with garlic shoots, bacon, and eggplant</span><br />
 
   <br />Prep time: <time datetime="PT0H10M" itemprop="prepTime">10m</time>
   <br />Cook time: <time datetime="PT0H5M" itemprop="cookTime">5m</time>

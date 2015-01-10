@@ -29,8 +29,9 @@ buddy: 0
   <h4 itemprop="name">Chicken Sausage Risotto with Basil</h4>
   
   <br />
-    February 5, 2014</time>
-  <img itemprop="image" width="200px" align="right" src="http://rotio.net/rotiofood/2014-02-05/risotto_plated.jpg" />
+    February 5, 2014
+<center>
+  <img itemprop="image" width="200px"  src="http://rotio.net/rotiofood/2014-02-05/risotto_plated.jpg" />
   
   <br /><span itemprop="description">Risotto with chicken sausage, basil, garlic, and tomato.</span><br />
 
@@ -107,5 +108,4 @@ buddy: 0
 	</div>
 	</div>
 
-</div>
 

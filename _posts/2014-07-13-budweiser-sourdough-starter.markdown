@@ -38,8 +38,9 @@ Like I said, most "mothers" begin with just water and flour. Sometimes random ju
   <h4 itemprop="name">Budweiser Sourdough Starter</h4>
   
   <br />
-    July 13, 2014</time>
-  <img itemprop="image" width="200px" align="right" src="http://rotio.net/rotiofood/2014-07-13/buddy_close.jpg" />
+    July 13, 2014
+<center>
+  <img itemprop="image" width="200px"  src="http://rotio.net/rotiofood/2014-07-13/buddy_close.jpg" />
   
   <br /><span itemprop="description">{{page.description }}</span><br />
 

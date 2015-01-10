@@ -30,8 +30,9 @@ buddy: 0
   <h4 itemprop="name">Budweiser Baked Wings</h4>
   
   <br />
-    February 2, 2014</time>
-  <img itemprop="image" width="200px" align="right" src="http://rotio.net/rotiofood/2014-02-02/wings_in_pan.jpg" />
+    February 2, 2014
+<center>
+  <img itemprop="image" width="200px"  src="http://rotio.net/rotiofood/2014-02-02/wings_in_pan.jpg" />
   
   <br /><span itemprop="description">Wings infused with Budweiser topped with some HOT sauce.</span><br />
   <span itemprop="review" itemscope itemtype="http://schema.org/Review-aggregate" hidden>

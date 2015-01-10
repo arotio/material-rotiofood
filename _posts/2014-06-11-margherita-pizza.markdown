@@ -27,8 +27,9 @@ buddy: 1
   <h4 itemprop="name">Budweiser Sourdough Margherita Pizza</h4>
   
   <br />
-    June 12, 2014</time>
-  <img itemprop="image" width="200px" align="right" src="http://rotio.net/rotiofood/2014-06-11/pie1.jpg" />
+    June 12, 2014
+<center>
+  <img itemprop="image" width="200px"  src="http://rotio.net/rotiofood/2014-06-11/pie1.jpg" />
   
   <br /><span itemprop="description">Budweiser sourdough margherita pizza</span><br />
 

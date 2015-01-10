@@ -29,8 +29,9 @@ buddy: 0
   <h4 itemprop="name">Sweet Potato Skins</h4>
   
   <br />
-    November 25, 2014</time>
-  <img itemprop="image" width="200px" align="right" src="http://rotio.net/rotiofood/2014-11-25/potato-skin-single.jpg" />
+    November 25, 2014
+<center>
+  <img itemprop="image" width="200px"  src="http://rotio.net/rotiofood/2014-11-25/potato-skin-single.jpg" />
   
   <br /><span itemprop="description">{{page.description }}</span><br />
 
@@ -100,11 +101,3 @@ buddy: 0
 	</div>
 
 </div>
-</div>
-<script>
-	$( "#accordion" ).accordion({
-	collapsible: true,
-	active: false,
-	heightStyle: "content"});
-</script>
-

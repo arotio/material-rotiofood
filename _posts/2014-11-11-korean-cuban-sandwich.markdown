@@ -34,8 +34,9 @@ buddy: 0
   <h4 itemprop="name">Korean Cuban Sandwich</h4>
   
   <br />
-    November 11, 2014</time>
-  <img itemprop="image" width="200px" align="right" src="http://rotio.net/rotiofood/2014-11-11/korean-cuban-plated-top.jpg" />
+    November 11, 2014
+<center>
+  <img itemprop="image" width="200px"  src="http://rotio.net/rotiofood/2014-11-11/korean-cuban-plated-top.jpg" />
   
   <br /><span itemprop="description">{{page.description }}</span><br />
 
@@ -182,11 +183,4 @@ buddy: 0
 	</div>
 
 </div>
-</div>
-<script>
-	$( "#accordion" ).accordion({
-	collapsible: true,
-	active: false,
-	heightStyle: "content"});
-</script>
 

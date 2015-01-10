@@ -27,8 +27,9 @@ buddy: 0
   <h4 itemprop="name">Steak Tip Salad</h4>
   
   <br />
-    June 4, 2014</time>
-  <img itemprop="image" width="200px" align="right" src="http://rotio.net/rotiofood/2014-06-04/steak_salad.jpg" />
+    June 4, 2014
+<center>
+  <img itemprop="image" width="200px"  src="http://rotio.net/rotiofood/2014-06-04/steak_salad.jpg" />
   
   <br /><span itemprop="description">Summer salad with marinated steak tips</span><br />
 
@@ -113,7 +114,4 @@ buddy: 0
 	 </div>
 	<br />
 	</div>
-
-</div>
-
 

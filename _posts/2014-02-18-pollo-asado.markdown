@@ -29,8 +29,9 @@ buddy: 0
   <h4 itemprop="name">Pollo Asado</h4>
   
   <br />
-    February 18, 2014</time>
-  <img itemprop="image" width="200px" align="right" src="http://rotio.net/rotiofood/2014-02-18/pollo_asado.jpg" />
+    February 18, 2014
+<center>
+  <img itemprop="image" width="200px"  src="http://rotio.net/rotiofood/2014-02-18/pollo_asado.jpg" />
   
   <br /><span itemprop="description">Pollo Asado tacos con manchego, avocado, y cilantro.</span><br />
 
@@ -85,6 +86,3 @@ buddy: 0
 
 	</div>
 	</div>
-
-</div>
-

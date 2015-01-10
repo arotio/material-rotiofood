@@ -32,8 +32,9 @@ buddy: 0
   <h4 itemprop="name">Raw Surf and Turf</h4>
   
   <br />
-    February 9, 2014</time>
-  <img itemprop="image" width="200px" align="right" src="http://rotio.net/rotiofood/2014-02-09/surf_turf_open.jpg" />
+    February 9, 2014
+<center>
+  <img itemprop="image" width="200px"  src="http://rotio.net/rotiofood/2014-02-09/surf_turf_open.jpg" />
   
   <br /><span itemprop="description">Tuna Tartare and Beef Carpaccio with crispy shallots.</span><br />
 
@@ -107,8 +108,5 @@ buddy: 0
 	  9. You have two options here, you can garnish with spicy mayo and sesame seeds and serve open like the photo in the recipe, or you can roll and tie with the chive like those seen at the top of the page. <br />
 	</div>
 	</div>
-
-</div>
-
 
  

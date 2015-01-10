@@ -27,8 +27,9 @@ buddy: 0
   <h4 itemprop="name">Blackened Catfish Taco with Mango Salsa</h4>
   
   <br />
-    June 2, 2014</time>
-  <img itemprop="image" width="200px" align="right" src="http://rotio.net/rotiofood/2014-06-02/taco_good.jpg" />
+    June 2, 2014
+<center>
+  <img itemprop="image" width="200px"  src="http://rotio.net/rotiofood/2014-06-02/taco_good.jpg" />
   
   <br /><span itemprop="description">Blackened catfish tacos with mango salsa, purple cabbage, and pineapple cilantro crema, wrapped in a homemade corn tortilla</span><br />
 
@@ -172,7 +173,5 @@ buddy: 0
 	<img src="http://rotio.net/rotiofood/2014-06-02/platter.jpg" />
 	<img src="http://rotio.net/rotiofood/2014-06-02/taco.jpg" />
 	</div>
-
-</div>
 
 

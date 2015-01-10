@@ -27,8 +27,9 @@ buddy: 1
   <h4 itemprop="name">Brunch Tortellini</h4>
   
   <br />
-    June 8, 2014</time>
-  <img itemprop="image" width="200px" align="right" src="http://rotio.net/rotiofood/2014-06-08/tortellini_small.jpg" />
+    June 8, 2014
+<center>
+  <img itemprop="image" width="200px"  src="http://rotio.net/rotiofood/2014-06-08/tortellini_small.jpg" />
   
   <br /><span itemprop="description">Maple onion sourdough tortellini with bacon and egg</span><br />
 
@@ -101,6 +102,5 @@ buddy: 1
 	<br />
 	</div>
 
-</div>
 
 

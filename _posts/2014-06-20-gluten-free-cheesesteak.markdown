@@ -26,8 +26,9 @@ buddy: 0
   <h4 itemprop="name">Gluten-Free Cheesesteak</h4>
   
   <br />
-    June 20, 2014</time>
-  <img itemprop="image" width="200px" align="right" src="http://rotio.net/rotiofood/2014-06-20/plated.jpg" />
+    June 20, 2014
+<center>
+  <img itemprop="image" width="200px"  src="http://rotio.net/rotiofood/2014-06-20/plated.jpg" />
   
   <br /><span itemprop="description">Ribeye over provolone sauce with sauteed onions and mushrooms</span><br />
 

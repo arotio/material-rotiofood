@@ -29,8 +29,9 @@ buddy: 0
   <h4 itemprop="name">Coconut Creme Brulee</h4>
   
   <br />
-    March 31, 2014</time>
-  <img itemprop="image" width="200px" align="right" src="http://rotio.net/rotiofood/2014-03-31/coconut_top.jpg" />
+    March 31, 2014
+<center>
+  <img itemprop="image" width="200px"  src="http://rotio.net/rotiofood/2014-03-31/coconut_top.jpg" />
   
   <br /><span itemprop="description">Creme brulee cooked in a coconut</span><br />
 
@@ -88,7 +89,5 @@ buddy: 0
 	
 
 	</div>
-
-</div>
 
 

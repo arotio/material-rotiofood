@@ -29,8 +29,9 @@ buddy: 0
   <h4 itemprop="name">baguette</h4>
   
   <br />
-    April 2, 2014</time>
-  <img itemprop="image" width="200px" align="right" src="http://rotio.net/rotiofood/2014-04-02/bread_close.jpg" />
+    April 2, 2014
+<center>
+  <img itemprop="image" width="200px"  src="http://rotio.net/rotiofood/2014-04-02/bread_close.jpg" />
   
   <br /><span itemprop="description">Straightforward Baguette</span><br />
 
@@ -84,7 +85,5 @@ buddy: 0
 	
 
 	</div>
-
-</div>
 
 

@@ -38,8 +38,9 @@ buddy: 0
   <h4 itemprop="name">Pig Head Cheese</h4>
   
   <br />
-    October 12, 2014</time>
-  <img itemprop="image" width="200px" align="right" src="http://rotio.net/rotiofood/2014-10-11/head-cheese-plated.jpg" />
+    October 12, 2014
+<center>
+  <img itemprop="image" width="200px"  src="http://rotio.net/rotiofood/2014-10-11/head-cheese-plated.jpg" />
   
   <br /><span itemprop="description">{{page.description }}</span><br />
 
@@ -115,11 +116,5 @@ buddy: 0
 	</div>
 
 </div>
-</div>
-<script>
-	$( "#accordion" ).accordion({
-	collapsible: true,
-	active: false,
-	heightStyle: "content"});
-</script>
+
 

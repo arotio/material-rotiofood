@@ -30,8 +30,9 @@ buddy: 1
   <h4 itemprop="name">Peanut Butter Bacon Burger</h4>
   
   <br />
-    July 24, 2014</time>
-  <img itemprop="image" width="200px" align="right" src="http://rotio.net/rotiofood/2014-07-24/burger_2.jpg" />
+    July 24, 2014
+<center>
+  <img itemprop="image" width="200px"  src="http://rotio.net/rotiofood/2014-07-24/burger_2.jpg" />
   
   <br /><span itemprop="description">{{page.description }}</span><br />
 
@@ -93,11 +94,3 @@ buddy: 1
 	</div>
 
 </div>
-</div>
-<script>
-	$( "#accordion" ).accordion({
-	collapsible: true,
-	active: false,
-	heightStyle: "content"});
-</script>
-

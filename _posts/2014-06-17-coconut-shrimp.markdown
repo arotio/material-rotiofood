@@ -26,8 +26,9 @@ buddy: 0
   <h4 itemprop="name">Coconut Shrimp</h4>
   
   <br />
-    June 17, 2014</time>
-  <img itemprop="image" width="200px" align="right" src="http://rotio.net/rotiofood/2014-06-17/plated_tight.jpg" />
+    June 17, 2014
+<center>
+  <img itemprop="image" width="200px"  src="http://rotio.net/rotiofood/2014-06-17/plated_tight.jpg" />
   
   <br /><span itemprop="description">Coconut shrimp with sriracha molasses over pickled cucumber and grapefruit</span><br />
 

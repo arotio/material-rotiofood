@@ -30,8 +30,9 @@ buddy: 0
   <h4 itemprop="name">Pork Tenderloin and Polenta</h4>
   
   <br />
-    March 12, 2014</time>
-  <img itemprop="image" width="200px" align="right" src="http://rotio.net/rotiofood/2014-03-12/pork_plated.jpg" />
+    March 12, 2014
+<center>
+  <img itemprop="image" width="200px"  src="http://rotio.net/rotiofood/2014-03-12/pork_plated.jpg" />
   
   <br /><span itemprop="description">Sous vide pork tenderloin with Gouda Polenta and Asparagus</span><br />
 
@@ -118,7 +119,4 @@ buddy: 0
 	
 
 	</div>
-
-</div>
-
 

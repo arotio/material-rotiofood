@@ -30,8 +30,9 @@ buddy: 0
   <h4 itemprop="name">Pork Roll Benedict</h4>
   
   <br />
-    November 16, 2014</time>
-  <img itemprop="image" width="200px" align="right" src="http://rotio.net/rotiofood/2014-11-16/pork-roll-benedict-plated-tight.jpg" />
+    November 16, 2014
+<center>
+  <img itemprop="image" width="200px"  src="http://rotio.net/rotiofood/2014-11-16/pork-roll-benedict-plated-tight.jpg" />
   
   <br /><span itemprop="description">{{page.description }}</span><br />
 
@@ -132,11 +133,3 @@ buddy: 0
 	</div>
 
 </div>
-</div>
-<script>
-	$( "#accordion" ).accordion({
-	collapsible: true,
-	active: false,
-	heightStyle: "content"});
-</script>
-

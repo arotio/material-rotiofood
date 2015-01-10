@@ -30,8 +30,9 @@ buddy: 1
   <h4 itemprop="name">Bacon Blue Burger</h4>
   
   <br />
-    July 20, 2014</time>
-  <img itemprop="image" width="200px" align="right" src="http://rotio.net/rotiofood/2014-07-20/bacon_blue_burger_1.jpg" />
+    July 20, 2014
+<center>
+  <img itemprop="image" width="200px"  src="http://rotio.net/rotiofood/2014-07-20/bacon_blue_burger_1.jpg" />
   
   <br /><span itemprop="description">{{page.description }}</span><br />
 

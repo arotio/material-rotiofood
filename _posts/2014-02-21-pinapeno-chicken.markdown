@@ -28,8 +28,9 @@ buddy: 0
   <h4 itemprop="name">Pi&ntilde;ape&ntilde;o Chicken</h4>
   
   <br />
-    February 21, 2014</time>
-  <img itemprop="image" width="200px" align="right" src="http://rotio.net/rotiofood/2014-02-21/chicken_far.jpg" />
+    February 21, 2014
+<center>
+  <img itemprop="image" width="200px"  src="http://rotio.net/rotiofood/2014-02-21/chicken_far.jpg" />
   
   <br /><span itemprop="description">Pineapple Jalape&ntilde;o Barbecue Chicken.</span><br />
 
@@ -102,6 +103,3 @@ buddy: 0
 
 	</div>
 	</div>
-
-</div>
-
