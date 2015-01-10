@@ -187,4 +187,8 @@ article div img{
 	article div img{
 		width: 80%;
 	}
+	
+	h1{
+		font-size: 2rem;
+	}
 }
