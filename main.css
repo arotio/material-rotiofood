@@ -152,6 +152,10 @@ img {
     width: 98%;
     height: 100%;
 }
+img[style] {
+    height: 1px !important;
+    width: 1px !important;
+}
 
 article div center img{
     width: 50%;
