@@ -166,15 +166,7 @@ article div img{
 	
 }
 
-body{
-	webkit-scrollbar-face-color: #000000;
-	webkit-scrollbar-shadow-color: #2D2C4D;
-	webkit-scrollbar-highlight-color:#795548;
-	webkit-scrollbar-3dlight-color: #795548;
-	webkit-scrollbar-darkshadow-color: #2D2C4D;
-	webkit-scrollbar-track-color: #795548;
-	webkit-scrollbar-arrow-color: #C1C1D1;
-}
+
 @media screen and (max-width: 768px){
 	.content {
 		margin: 2%;
